@@ -1,0 +1,16 @@
+@font-face {
+	font-family : '마루부리';
+	src : url(../font/MaruBuri-Regular.otf);
+}
+
+p,footer {
+    color:palevioletred
+}
+
+h1,h2 {
+    color:hotpink
+}
+
+body {
+    font-family: '마루부리'
+}
